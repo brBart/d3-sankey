@@ -20,7 +20,7 @@ function value(d) {
 }
 
 function nodeCenter(node) {
-  return (node.y0 + node.y1) / 2;
+  return 0;
 }
 
 function weightedSource(link) {
